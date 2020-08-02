@@ -7,7 +7,7 @@ This program anonymizes with the Henohenomoheji (no-mo-no) letters by using the 
 $ python nomono-anonymizer.py <input-video-file> <output-video-file>
 ```
 
-## Genarated videos
+## Generated videos
 * `nomono-anonymizer.py` generates the Henohenomoheji (no-mo-no) letters on eyes and noses on movie scenes of these videos ([People in Italy](https://pixabay.com/videos/id-6582/) and [Guests at dinner](https://pixabay.com/videos/id-34418/)).
 
 ![People in Italy](images/nomono-anonymizer-italy.gif)
